@@ -1,0 +1,22 @@
+.location-name{
+    font-size: 14px !important;
+    text-transform: capitalize !important;
+    margin-bottom: 1px !important;
+}
+.location-addr{
+    font-size: 12px !important;
+    text-transform: capitalize !important;
+    margin-bottom: 1px !important;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+.location-list{
+    color: #000 !important;
+    padding: 6px;
+    border-bottom: 1px solid #eeeeee !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

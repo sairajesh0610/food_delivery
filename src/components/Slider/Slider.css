@@ -1,0 +1,16 @@
+  .slider-carousel{
+    display: flex !important;
+    justify-content: center !important;
+    /* margin-top: 60px !important;
+    padding-top: 10px !important; */
+  }
+   /* .p-carousel .p-carousel-content .p-carousel-next{
+    display: none !important;
+  } */
+
+  .remove-btn  .p-carousel-prev,.remove-btn .p-carousel-next{
+    display: none !important;
+  }
+  
+
+ 
